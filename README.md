@@ -12,6 +12,7 @@ pip install -r requirements.txt
 (This command can slightly vary depending on your operating system, for example on Linux it can be `pip3` instead of pip)
 
 Before running, rename `config.example.json` to `config.json` and populate it with all required values.
+To find the needed secrets for the Spotify API, you can consult the [Spotipy Documentation](https://spotipy.readthedocs.io/en/2.22.1/).
 
 Then, you can run it using Python, optimizations are recommended:
 ```
