@@ -1,0 +1,11 @@
+{
+    "prefix": ".",
+    "token": "YOUR TOKEN HERE",
+    "status": "some tunes",
+    "guild": 12345,
+    "blend_thread_id": 123456,
+    "spotify_client_id": "spotify_client_id_here",
+    "spotify_client_secret": "spotify_client_secret_here",
+    "spotify_redirect_url": "spotify_callback_url_here",
+    "spotify_blend_playlist_url": "spotify_playlist_url_here"
+}
