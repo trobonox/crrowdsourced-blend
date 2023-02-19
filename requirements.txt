@@ -1,0 +1,4 @@
+discord.py>=2.0.0
+aiofiles==22.1.0
+spotipy
+pytz
