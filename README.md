@@ -1,6 +1,6 @@
-# Crrowdsourced Blend Bot ✌
+# Crrowdsourced Blend Bot
 
-Adds songs to a playlist
+A bot which adds songs from a Discord thread into a spotify playlist.
 
 ## 🚀 Deployment
 The only prerequisite is any installation of Python >=3.8.0
