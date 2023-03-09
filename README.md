@@ -3,6 +3,8 @@
 A bot which adds songs from a Discord thread into a spotify playlist.
 The current behaviour allows three "picks" for each user per month.
 
+Future potential features: song votes with leaderboard, resolve YouTube or SoundCloud links to Spotify links
+
 ## 🚀 Deployment
 The only prerequisite is any installation of Python >=3.8.0
 
